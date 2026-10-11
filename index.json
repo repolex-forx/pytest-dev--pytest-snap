@@ -1,0 +1,11 @@
+{
+  "org": "pytest-dev",
+  "repo": "pytest-snap",
+  "versions": [
+    {
+      "commit": "08ec8a95bf188cfe9abd699a58c1a830f4db0f6b",
+      "tag": "",
+      "parsed_at": "2026-10-11T02:57:03.352048+00:00"
+    }
+  ]
+}
